@@ -1,0 +1,23 @@
+Tytuł:
+-Kółko i Krzyżyk
+
+Autor:
+-Bartosz Patla
+
+Przegląd gry: Koncepcja Gry: Kluczowe cechy:
+-Jeden gracz
+-Celem gry jest ułożenie symbolu kółka bądź krzyżyka trzy razy w prostej linii.
+
+Mechanika:
+-Wskazywanie kursorem miejsca w którym ma się pojawić nasz symbol (Kółka lub krzyżyka)
+
+Poziomy:
+-Tylko jeden 
+
+Interfejs:
+-Gra przeglądarkowa
+
+Techniki:
+-HTML
+-JS
+-CSS
